@@ -94,6 +94,10 @@ textarea::placeholder {
   opacity: 1;   
 }
 
+button:hover {
+  cursor: pointer;
+}
+
 .contact-info {
   display: flex;
   justify-content: space-around;
