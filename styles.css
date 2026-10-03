@@ -119,15 +119,15 @@ textarea::placeholder {
 }
 
 #email-info {
-  background-image: url('/images/vector/email.svg');
+  background-image: url('images/vector/email.svg');
 }
 
 #phone-info {
-  background-image: url('/images/vector/phone.svg');
+  background-image: url('images/vector/phone.svg');
 }
 
 #location-info {
-  background-image: url('/images/vector/map.svg');
+  background-image: url('images/vector/map.svg');
 }
 
 .circle + div , .contact-info p {
