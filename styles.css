@@ -228,7 +228,7 @@ footer ul li {
   }
 }
 
-@media (max-width: 630px) {
+@media (max-width: 670px) {
  .contact-info {
     flex-direction: column;
     gap: 20px;
