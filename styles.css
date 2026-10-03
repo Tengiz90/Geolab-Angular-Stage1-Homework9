@@ -203,6 +203,12 @@ footer ul li {
   margin-bottom: 10px; 
 }
 
+
+.socials {
+  display: flex;
+  gap: 20px;
+  margin-top: 20px;
+}
 @media (max-width: 1300px) {
   .photos {
     flex-wrap: wrap;     
@@ -240,11 +246,11 @@ footer ul li {
     align-items: start;
   }
 
-  footer div:first-of-type {
+  footer > div:first-of-type {
   max-width: 90%;
   }
 
-  footer div {
+  footer > div {
     margin: 0 5%;
   }
 }
