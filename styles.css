@@ -90,8 +90,8 @@ form > div > input {
 }
 input[type="text"]::placeholder,
 textarea::placeholder {
-  color: #9e9e9e; /* Light gray placeholder text */
-  opacity: 1;    /* Required for Firefox to display exact color */
+  color: #9e9e9e; 
+  opacity: 1;   
 }
 
 .contact-info {
@@ -103,7 +103,7 @@ textarea::placeholder {
 .contact-info > div {
  display: flex;
   flex-direction: column; 
-  align-items: center;    /* Centers items horizontally */
+  align-items: center;   
   gap: 16px;
 }
 
@@ -140,7 +140,7 @@ textarea::placeholder {
 
 .contact-info p {
   color: #99999A;
-  margin: 0; /* Remove default margin for paragraphs */
+  margin: 0; 
 }
 
 .photos {
@@ -196,7 +196,7 @@ footer div:last-of-type a {
 
 footer ul {
   padding-left: 0;   
-  margin-left: 0;    /* Removes default left margin (if present) */
+  margin-left: 0;    
 }
 
 footer ul li {
